@@ -55,7 +55,7 @@ class JumpStartPlugin extends BasePlugin
      */
     public function getDeveloper()
     {
-        return 'Taylor Daughtry';
+        return 'Caddis';
     }
 
     /**
@@ -65,7 +65,7 @@ class JumpStartPlugin extends BasePlugin
      */
     public function getDeveloperUrl()
     {
-        return 'https://github.com/taylordaughtry';
+        return 'https://github.com/caddis';
     }
 
     /**
@@ -75,7 +75,7 @@ class JumpStartPlugin extends BasePlugin
      */
     public function getDocumentationUrl()
     {
-        return 'https://github.com/taylordaughtry/jumpstart';
+        return 'https://github.com/caddis/craft-jumpstart';
     }
 
     /**
@@ -87,7 +87,7 @@ class JumpStartPlugin extends BasePlugin
     public function getReleaseFeedUrl()
     {
         return 'https://raw.githubusercontent.com/' .
-            'taylordaughtry/jumpstart/master/releases.json';
+            'caddis/craft-jumpstart/master/releases.json';
     }
 
     /**
